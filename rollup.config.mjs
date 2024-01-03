@@ -20,6 +20,8 @@ export function createConfig({ input = 'index.ts', pkg, external = [] }) {
       },
       strictDeprecations: true,
       output: {
+        // change this output file to development
+        // e.g. file: '/Users/xxx/.markflowy/extensions/markflowy-theme-template/index.js',
         file: pkg.browser,
         format: 'es',
         sourcemap: true,

@@ -76,7 +76,7 @@ const styledTheme = {
   labelFontColor: 'rgba(255, 255, 255, 0.5)',
   accentColor: '#1c78aa',
   borderColor: '#363b41',
-  bgColor: '#05010d',
+  bgColor: '#161b22',
   warnColor: '#dc2626',
   tipsBgColor: '#0e1419',
   successColor: '#00c853',
@@ -96,7 +96,7 @@ const styledTheme = {
 }
 
 const darkTheme: MfTheme = {
-  name: 'dark+',
+  name: 'MarkFlowy Dark-',
   mode: 'dark',
   styledContants: styledTheme,
   codemirorTheme: mfCodemirrorDark,

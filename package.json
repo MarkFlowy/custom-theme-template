@@ -40,7 +40,7 @@
   "devDependencies": {
     "@drl990114/codemirror-themes": "^0.0.1",
     "@markflowy/runtime-api": "^0.0.5",
-    "@markflowy/theme": "^0.0.8",
+    "@markflowy/theme": "^0.0.10",
     "@rollup/plugin-node-resolve": "15.2.3",
     "@rollup/plugin-terser": "0.4.4",
     "@rollup/plugin-typescript": "11.1.5",

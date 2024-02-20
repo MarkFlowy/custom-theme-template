@@ -98,8 +98,8 @@ const styledTheme = {
 const darkTheme: MfTheme = {
   name: 'MarkFlowy Dark-',
   mode: 'dark',
-  styledContants: styledTheme,
-  codemirorTheme: mfCodemirrorDark,
+  styledConstants: styledTheme,
+  codemirrorTheme: mfCodemirrorDark,
   globalStyleText: css
 }
 

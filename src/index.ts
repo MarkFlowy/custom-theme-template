@@ -39,6 +39,7 @@ const common = {
   lineHeightBase: '1.6',
 
   titleBarHeight: '30px',
+  titleBarControlBtnWidth: '50px',
 
   fontH1: '28px',
   fontH2: '26px',
@@ -61,7 +62,7 @@ const common = {
   bigBorderRadius: '12px',
 
   black: '#74757D',
-  white: '#E0E0E0',
+  white: '#ffffff',
   gray: '#C0C0C0',
   blue: '#0359D0',
 
@@ -77,7 +78,9 @@ const styledTheme = {
   accentColor: '#1c78aa',
   borderColor: '#363b41',
   bgColor: '#161b22',
-  warnColor: '#dc2626',
+  hoverColor: '#1f2225',
+  warnColor: '#e2b340',
+  dangerColor: '#dc2626',
   tipsBgColor: '#0e1419',
   successColor: '#00c853',
   boxShadowColor: 'rgba(255, 255, 255, 0.04)',
@@ -87,7 +90,8 @@ const styledTheme = {
   tooltipBgColor: '#43414A',
   dialogBgColor: '#05010d',
   dialogBackdropColor: 'rgb(18, 18, 18, 0.7)',
-  contextMenuBgColor: '#43414A',
+  contextMenuBgColor: '#1E1F20',
+  contextMenuBgColorHover: '#1552B3',
 
   titleBarDefaultHoverColor: '#383838',
 

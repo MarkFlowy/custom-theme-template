@@ -20,8 +20,8 @@ devDependencies:
     specifier: ^0.0.5
     version: 0.0.5(eslint@8.56.0)
   '@markflowy/theme':
-    specifier: ^0.0.10
-    version: 0.0.10(eslint@8.56.0)(react-dom@18.2.0)
+    specifier: ^0.0.13
+    version: 0.0.13(eslint@8.56.0)(react-dom@18.2.0)
   '@rollup/plugin-node-resolve':
     specifier: 15.2.3
     version: 15.2.3(rollup@3.29.4)
@@ -239,8 +239,8 @@ packages:
       eslint: 8.56.0
     dev: true
 
-  /@markflowy/theme@0.0.10(eslint@8.56.0)(react-dom@18.2.0):
-    resolution: {integrity: sha512-Sb8Nx1Hg5HXMDvYLkTM6BaJDPWW8yizrmjnbGyz7wXRi6TIdHjubGSwirpc8jbqs6pqjEcR2PTnQ6PkucqkFOQ==}
+  /@markflowy/theme@0.0.13(eslint@8.56.0)(react-dom@18.2.0):
+    resolution: {integrity: sha512-YlnRJunP4hc3cCZvuyLLfxzY0RCD/5Ka5kGC/C9EkvwD84qJupLEqVura230kwwSiUO6OMwoflGa7GXlJYqXYQ==}
     peerDependencies:
       eslint: '>=7.4.0'
     dependencies:
